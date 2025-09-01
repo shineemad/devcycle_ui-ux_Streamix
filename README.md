@@ -24,9 +24,9 @@ Desain ini merupakan latihan pembuatan *tampilan aplikasi mobile* dengan fokus p
 Beberapa elemen yang dilatih dalam desain ini antara lain:
 
 1. *Tampilan Awal (Splash Screen)*  
-   - Menampilkan logo Universitas Muhammadiyah Makassar.  
-   - Judul aplikasi: *SIMAKKU* dengan deskripsi singkat "aplikasi ini adalah aplikasi untuk administrasi mahasiswa".  
-   - Menggunakan *gradien warna biru* sebagai identitas visual utama.
+   - Menampilkan logo Streamix.  
+   - Judul aplikasi: Streamix dengan deskripsi singkat "aplikasi ini adalah aplikasi untuk menonton film".  
+   - Menggunakan *warna hitam dan merah* sebagai identitas visual utama.
    - ## 📱 Preview Desain
      ![](tampilanAwal.png)
 
