@@ -47,4 +47,5 @@ Beberapa elemen yang dilatih dalam desain ini antara lain:
 ## ✨ Catatan
 
 Latihan ini dibuat sebagai bagian dari kegiatan *DevCycle* untuk mengasah kemampuan dalam *UI/UX Design*, khususnya dalam membangun tampilan aplikasi yang ramah pengguna serta konsisten dalam gaya visual.
+<br>link : <a> https://www.figma.com/design/2rPH49mzdr963to3dX9cNw/Untitled?node-id=76-451&p=f&t=ZoHQjjjWCPUBzvIe-0 </a>
 
